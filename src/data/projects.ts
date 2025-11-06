@@ -84,7 +84,4 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
       "I adopted server actions for data mutations and revalidated client caches immediately after updates. This kept the UI and database perfectly aligned, even during concurrent edits or optimistic updates.",
     liveWebsiteHref: "https://vimplay.com/",
   },
-  
-  
-  
 ];

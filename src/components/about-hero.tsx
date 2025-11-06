@@ -36,9 +36,14 @@ export default function AboutHero() {
           </FadeUp>
           <FadeUp key="description-1" duration={0.6} delay={0.2}>
             <p className="mt-8 text-base font-medium text-zinc-900 dark:text-zinc-300 sm:text-lg md:text-lg">
-              With years of experience, he masters both front-end and back-end design and implementation, enabling him to quickly design and implement complex systems.
-              <br/>He is a technical leader who quickly grasps the latest technology trends and provides efficient development guidance to his team.
-              With his combined problem-solving and architectural design skills, he consistently drives project success.
+              With years of experience, he masters both front-end and back-end
+              design and implementation, enabling him to quickly design and
+              implement complex systems.
+              <br />
+              He is a technical leader who quickly grasps the latest technology
+              trends and provides efficient development guidance to his team.
+              With his combined problem-solving and architectural design skills,
+              he consistently drives project success.
             </p>
           </FadeUp>
           <FadeUp key="description-2" duration={0.6} delay={0.4}>

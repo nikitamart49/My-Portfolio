@@ -20,7 +20,8 @@ export const EXPERIENCE: ExperienceShowcaseListItemProps[] = [
     },
     date: "08/2020-06/2023",
     location: "Kyiv, Ukraine",
-    description: "Developed E-commerce and marketplace platforms with dynamic product catalogs, shopping carts, and transactional systems, using React/Vue for responsive frontends and Node.js/Express with MongoDB/PostgreSQL for secure, high-performance backends. Integrated real-time inventory updates, search & filtering, and analytics pipelines (AWS Glue) to ensure seamless shopping experiences and reliable multi-tenant operations. Designed SaaS, social media, and CMS platforms with interactive dashboards, messaging systems, and content management features. Leveraged React/Vue for dynamic Uls, Node.js/Express for REST APIs, and hybrid data storage (MongoDB + PostgreSQL) to support real-time analytics, recommendation engines, and collaborative tools, creating scalable and data-driven applications tailored to each platform's needs.",
+    description:
+      "Developed E-commerce and marketplace platforms with dynamic product catalogs, shopping carts, and transactional systems, using React/Vue for responsive frontends and Node.js/Express with MongoDB/PostgreSQL for secure, high-performance backends. Integrated real-time inventory updates, search & filtering, and analytics pipelines (AWS Glue) to ensure seamless shopping experiences and reliable multi-tenant operations. Designed SaaS, social media, and CMS platforms with interactive dashboards, messaging systems, and content management features. Leveraged React/Vue for dynamic Uls, Node.js/Express for REST APIs, and hybrid data storage (MongoDB + PostgreSQL) to support real-time analytics, recommendation engines, and collaborative tools, creating scalable and data-driven applications tailored to each platform's needs.",
   },
   {
     title: "Web Designer",

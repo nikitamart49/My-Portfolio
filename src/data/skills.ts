@@ -37,7 +37,7 @@ import GitSvg from "@/public/icons/git.svg";
 import DockerSvg from "@/public/icons/docker.svg";
 import LinuxSvg from "@/public/icons/linux.svg";
 import GitHubSvg from "@/public/icons/github.svg";
-import VscordSvg from "@/public/icons/vscode.svg"
+import VscordSvg from "@/public/icons/vscode.svg";
 
 // Video Editing Tools
 import PremierSvg from "@/public/icons/Premiere_Pro.svg";
@@ -84,7 +84,7 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
       },
       {
         name: "WordPress",
-        icon: Wordpress
+        icon: Wordpress,
       },
       {
         name: "Webflow",
@@ -93,7 +93,7 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
       {
         name: "Three.js",
         icon: ThreejsSvg,
-      }, 
+      },
       {
         name: "Node.js",
         icon: NodejsSVG,
@@ -117,8 +117,8 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
       },
       {
         name: "UX/UI design",
-        icon: UXsvg
-      }
+        icon: UXsvg,
+      },
     ],
   },
   {
@@ -143,7 +143,7 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
     skills: [
       {
         name: "Doker",
-        icon: DockerSvg
+        icon: DockerSvg,
       },
       {
         name: "Git",
@@ -159,5 +159,4 @@ export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
       },
     ],
   },
-  
 ];
