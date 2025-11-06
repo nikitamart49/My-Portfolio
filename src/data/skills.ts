@@ -1,4 +1,4 @@
-import { SiPrisma, SiNextdotjs } from "react-icons/si";
+import { SiNextdotjs } from "react-icons/si";
 
 import { type SkillsShowcaseProps } from "@/components/skills/skills-showcase";
 
@@ -35,12 +35,9 @@ import MysqlSvg from "@/public/icons/mysql.svg";
 // Tools and Tech
 import GitSvg from "@/public/icons/git.svg";
 import DockerSvg from "@/public/icons/docker.svg";
-import LinuxSvg from "@/public/icons/linux.svg";
 import GitHubSvg from "@/public/icons/github.svg";
-import VscordSvg from "@/public/icons/vscode.svg";
 
 // Video Editing Tools
-import PremierSvg from "@/public/icons/Premiere_Pro.svg";
 
 export const SKILLS_DATA: SkillsShowcaseProps["skills"] = [
   {
