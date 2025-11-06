@@ -6,7 +6,7 @@ import { type SkillsShowcaseProps } from "@/components/skills/skills-showcase";
 import ReactjsSvg from "@/public/icons/reactjs.svg";
 import AngularSvg from "@/public/icons/angular.svg";
 import TailwindcssSvg from "@/public/icons/tailwindcss.svg";
-import ThreejsSvg from "@/public/icons/threejs.svg";
+import ThreejsSvg from "@/public/icons/Threejs.svg";
 import NodejsSVG from "@/public/icons/nodejs.svg";
 import VuejsSVG from "@/public/icons/Vue.js_Logo_2.svg";
 import Verselsvg from "@/public/icons/vercel.svg";
